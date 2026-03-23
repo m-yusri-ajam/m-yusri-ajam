@@ -17,7 +17,7 @@ I specialize in engineering the "Source of Truth" for enterprise-scale operation
 #### 🐍 Data Science & Automation
 * **Python Stack:** Pandas, NumPy, Flask, Matplotlib, Seaborn, scikit-learn, Requests (API Integration).
 * **Automation Logic:** Fuzzy Matching for Reconciliation, Automated ETL Pipelines, Predictive Variance Modeling, Synthetic Data Generation.
-* **Environments:** VS Code, Jupyter Notebooks, Git/GitHub Version Control.
+* **Environments & OS:** Ubuntu (Primary OS), Windows, Bash/Shell Scripting, VS Code, Git/GitHub, Jupyter.
 
 #### 📈 Business Intelligence & Visualization
 * **Power BI:** Advanced DAX (Data Analysis Expressions), Star Schema Modeling, Power Query (M Language).
