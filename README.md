@@ -11,7 +11,7 @@ I specialize in engineering the "Source of Truth" for enterprise-scale operation
 
 #### 📊 Financial & Systems Governance
 * **ERP Architecture:** SAP (PS, MM, HCM), WBS Structure Management, Project Lifecycle Governance.
-* **Financial Logic:** FMVA® Certified (Financial Modeling & Valuation), CAPEX/OPEX Tracking, P&L Integration, Budget Forecasting, ROI & Variance Analysis.
+* **Financial Logic:** FMVA® Certified (Financial Modeling & Valuations Analyst), CAPEX/OPEX Tracking, P&L Integration, Budget Forecasting, ROI & Variance Analysis.
 * **Governance:** Audit Compliance, Technical Procurement, Vendor Management (SLA/SOP Tracking).
 
 #### 🐍 Data Science & Automation
