@@ -9,10 +9,24 @@ I specialize in engineering the "Source of Truth" for enterprise-scale operation
 
 ### 🛠 My Technical Toolbelt
 
-* **Financial Governance:** SAP (PS, MM, HCM), WBS Architecture, CAPEX/OPEX Tracking.
-* **Data Automation:** Python (Pandas, Flask, NumPy), SQL, Advanced Excel/Power Query.
-* **Business Intelligence:** Power BI (Star Schema modeling, DAX), Executive KPI Suites.
-* **Process Engineering:** System Optimization, Mass-Balance Logic, Zero-Defect Frameworks.
+#### 📊 Financial & Systems Governance
+* **ERP Architecture:** SAP (PS, MM, HCM), WBS Structure Management, Project Lifecycle Governance.
+* **Financial Logic:** FMVA® Certified (Financial Modeling & Valuation), CAPEX/OPEX Tracking, P&L Integration, Budget Forecasting, ROI & Variance Analysis.
+* **Governance:** Audit Compliance, Technical Procurement, Vendor Management (SLA/SOP Tracking).
+
+#### 🐍 Data Science & Automation
+* **Python Stack:** Pandas, NumPy, Flask, Matplotlib, Seaborn, scikit-learn, Requests (API Integration).
+* **Automation Logic:** Fuzzy Matching for Reconciliation, Automated ETL Pipelines, Predictive Variance Modeling, Synthetic Data Generation.
+* **Environments:** VS Code, Jupyter Notebooks, Git/GitHub Version Control.
+
+#### 📈 Business Intelligence & Visualization
+* **Power BI:** Advanced DAX (Data Analysis Expressions), Star Schema Modeling, Power Query (M Language).
+* **Advanced Excel:** Financial Modeling, VBA Automation, Power Pivot Mapping.
+* **SQL:** Relational Database Management, Complex Joins, Data Cleaning & Aggregation.
+
+#### ⚗️ Process Engineering
+* **Methodologies:** Six Sigma Principles, Mass-Balance Logic, Zero-Defect Frameworks, Root Cause Analysis (RCA).
+* **Optimization:** Industrial Efficiency Modeling, Systemic Waste Reduction, Process Flow Mapping.
 
 ---
 
@@ -35,6 +49,7 @@ I specialize in engineering the "Source of Truth" for enterprise-scale operation
 * **LinkedIn:** [linkedin.com/in/yusri-ajam](https://www.linkedin.com/in/yusri-ajam)
 * **Location:** Cape Town, South Africa
 * **Goal:** Seeking a career-defining role within global FinOps or Digital Transformation teams where technical rigor and financial strategy intersect.
+* **Global Mobility 🌍:** *Actively seeking international opportunities that leverage specialized technical-financial skillsets.*
 ---
 *"In God we trust; all others must bring data." — W. Edwards Deming*
 
